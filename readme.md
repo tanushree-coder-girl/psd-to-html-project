@@ -30,3 +30,6 @@ The website is fully responsive and adapts gracefully to different screen sizes:
 - ✅ Desktop (1200px+)
 - ✅ Tablet (600px - 1199px)
 - ✅ Mobile (0px - 599px)
+
+ ## PSD Template by [Freepik](https://www.freepik.com/free-psd/yoga-class-pack-template-concept_7084952.htm)
+
